@@ -4,7 +4,7 @@ RFToy Arduino Library
 Arduino library and example code for RFToy --
 an Arduino-compatible gadget for RF modules.
 
-Check details at http://rayshobby.net/rftoy
+Check details at http://rftoy.rayshobby.net
 
 This folder includes the following open-source
 libraries:
