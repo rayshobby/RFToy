@@ -51,8 +51,8 @@
 // pin defines
 #define RECEIVE_POWER_PIN 9
 #define TRANSMIT_POWER_PIN 8
-#define S1 3
-#define S2 4
+#define S1 4
+#define S2 5
 #define S3 6
 #define TRANSMIT_PIN 7
 #define RECEIVE_PIN 2
